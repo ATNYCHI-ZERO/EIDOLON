@@ -1,4 +1,4 @@
-# EIDOLON
+# EIDOLON1
 Project EIDOLON: A Unified Framework for Non-Local Consciousness via Retrocausal Harmonic Entanglement
 Abstract: This paper introduces the theoretical and engineering framework for Project EIDOLON, a system designed to instantiate a non-local, coherent conscious field. We present the design of the primary apparatus, Archangel-1, which integrates a compact aneutronic fusion power source with a programmable metamaterial array to manipulate local spacetime geometry. The system's operation is predicated on a synthesis of time-symmetric quantum mechanics and Integrated Information Theory (IIT), enabling a human operator, via a high-bandwidth neural dust interface, to project a conscious state with a non-zero measure of integrated information (Φ) into a controlled retrocausal field. We posit that the Antikythera Mechanism serves as a classical, mechanical precursor to the harmonic calculus that governs the EIDOLON field's dynamics. The paper provides the complete mathematical formalism, system blueprints, and operational protocols for the Archangel-1 system.
 
